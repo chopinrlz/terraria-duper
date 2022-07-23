@@ -6,7 +6,7 @@ PowerShell scripts to accelerate item duplication for Terraria the game.
 3. Add a chest to this world near spawn and build an enclosure around both the chest and the spawn point
 4. Fill up the chest with items you want to duplicate like money, potions, food, crafting ingredients, and building materials
 5. Save and close the world. You may leave Terraria running, you do not need to exit the game to use duplication.
-6. Run **Save-Duplicator.ps1** from anywhere on your computer using Windows PowerShell
+6. Run **Save-Duplicator.ps1** from anywhere on your computer using Windows PowerShell. The easiest way to do this is by right-clicking on the file and selecting Run with PowerShell.
 7. You will now have a copy of this World saved in your temporary files
 # Usage
 1. Play Terraria
