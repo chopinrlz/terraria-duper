@@ -14,11 +14,10 @@ PowerShell scripts to accelerate item duplication for Terraria the game.
 3. Take out whatever you need for your character
 4. Save and close the world
 5. Alt + Tab out of Terraria to Windows Explorer. You do not need to exit Terraria.
-6. Run **Dupe-Duplicator.ps1** to replenish the World from your saved copy
+6. Run **Dupe-Duplicator.ps1** to replenish the World from your saved copy. The fastest way to do this is to right-click on the script and select Run with PowerShell.
 7. Repeat as needed
 # Other Notes
-You can always add more resources to your Duplicator world and run **Save-Duplicator.ps1** to make a new copy.  
-Make sure to always run **Dupe-Duplicator.ps1** immediately after taking resources out of the Duplicator world to replenish them. You may want to add more resources later and use **Save-Duplicator.ps1** to setup a new version.  
+Make sure to always run **Dupe-Duplicator.ps1** immediately after taking resources out of the Duplicator world to replenish them in case you add more later. You may want to add more resources later and use **Save-Duplicator.ps1** to setup a new version.
 # Modifying the Scripts
 If you don't want to use the name "Duplicator" for your world, open both scripts and change the first line from:  
 ```powershell
